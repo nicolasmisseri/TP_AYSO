@@ -1,4 +1,4 @@
-======================================================================
+=============================================
 TPI- ARQUIECTURA Y SISTEMAS OPERATIVOS 
 Tema Selecionado: Virtualización
 Alumnos: Nicolas Misseri (Comisión 5) y Gerardo Ocampo (Comisión 20)

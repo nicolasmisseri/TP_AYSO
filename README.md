@@ -1,9 +1,11 @@
-=============================================
-TPI- ARQUIECTURA Y SISTEMAS OPERATIVOS 
-Tema Selecionado: Virtualización
-Alumnos: Nicolas Misseri (Comisión 5) y Gerardo Ocampo (Comisión 20)
-======================================================================
+# TPI- ARQUIECTURA Y SISTEMAS OPERATIVOS 
+ - Tema Selecionado: Virtualización.
+ -  Alumnos: Nicolas Misseri (Comisión 5) y Gerardo Ocampo (Comisión 20).
 
+# Enforno de desarrollo:
+- El programa se ejecuta desde Linux (Específicamente Ubunt), sistemas operativo instalado en la máquina virtual generada con Virtual Box en Window.
+
+  
 # 📊 Calculador de Promedios
 
 Un programa simple y práctico en Python para calcular el promedio de una lista de números.

@@ -1,3 +1,13 @@
+#========================================================================
+# TPI- ARQUIECTURA Y SISTEMAS OPERATIVOS 
+# Tema Selecionado: Virtualización.
+# Alumnos: Nicolas Misseri (Comisión 5) y Gerardo Ocampo (Comisión 20).
+#========================================================================
+
+
+
+
+# BLOQUE 1 : FUNCIONES  (LÓGICA DE NEGOCIO)
 #!/usr/bin/env python3
 def compute_average(numbers):
 	if not numbers:
@@ -21,6 +31,8 @@ def read_numbers_interactive():
 			print(f"Ignorado: '{p}' no es un número válido")
 	return nums
 
+
+# BLOQUE 2: MENU PRINCIPAL (LÓGICA DE NEGOCIO)
 def main():
 	nums = read_numbers_interactive()
 	if not nums:

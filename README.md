@@ -2,7 +2,7 @@
  - Tema Selecionado: Virtualización.
  -  Alumnos: Nicolas Misseri (Comisión 5) y Gerardo Ocampo (Comisión 20).
 
-# Enforno de desarrollo:
+# Entorno de desarrollo:
 - El programa se ejecuta desde Linux (Específicamente Ubunt), sistemas operativo instalado en la máquina virtual generada con Virtual Box en Window.
 
   

@@ -32,7 +32,7 @@ def read_numbers_interactive():
 	return nums
 
 
-# BLOQUE 2: MENU PRINCIPAL (LÓGICA DE NEGOCIO)
+# BLOQUE 2: MENU PRINCIPAL
 def main():
 	nums = read_numbers_interactive()
 	if not nums:

@@ -3,7 +3,10 @@
  -  Alumnos: Nicolas Misseri (Comisión 5) y Gerardo Ocampo (Comisión 20).
 
 # Entorno de desarrollo:
-- El programa se ejecuta desde Linux (Específicamente Ubunt), sistemas operativo instalado en la máquina virtual generada con Virtual Box en Window.
+- El programa se ejecuta desde Linux (Específicamente Ubuntu), sistemas operativo instalado en la máquina virtual generada con Virtual Box en Window.
+
+# LINK DE ACCESO AL VIDEO EN DRIVE (DESCARGAR PARA REPRODUCIR)
+https://drive.google.com/file/d/1LAQQEB9tma3cGyObQZvgdHCsnlmmxWUo/view?usp=sharing
 
   
 # 📊 Calculador de Promedios
